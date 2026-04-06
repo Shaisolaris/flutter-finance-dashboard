@@ -1,5 +1,7 @@
 # flutter-finance-dashboard
 
+![CI](https://github.com/Shaisolaris/flutter-finance-dashboard/actions/workflows/ci.yml/badge.svg)
+
 Flutter personal finance dashboard with investment portfolio tracking, stock holdings with gain/loss, budget categories with progress bars, savings goals, transaction history, watchlist, and income vs expense summary. Dart-only with ChangeNotifier state and Material Design 3.
 
 ## Stack
