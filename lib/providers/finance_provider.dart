@@ -3,9 +3,6 @@ import 'package:flutter/foundation.dart';
 import '../models/models.dart';
 
 class FinanceProvider extends ChangeNotifier {
-  Map<String, dynamic> get portfolio => DemoFinance.portfolio;
-  List<Map<String, dynamic>> get holdings => DemoFinance.holdings;
-  List<Map<String, dynamic>> get transactions => DemoFinance.recentTransactions;
   final portfolio = const Portfolio(
     totalValue: 47823.56,
     totalGain: 8234.12,
