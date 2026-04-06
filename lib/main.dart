@@ -1,4 +1,3 @@
-import 'data/demo_data.dart';
 import 'package:flutter/material.dart';
 import 'providers/finance_provider.dart';
 import 'screens/portfolio_screen.dart';
